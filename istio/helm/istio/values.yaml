@@ -14,7 +14,7 @@ istioEgressAllowedTLDs:
 
 istio:
   hub: gcr.io/istio-release
-  tag: 1.10.3
+  tag: 1.13.3
   namespace: istio-system
   egressGateway:
     enabled: false
@@ -25,7 +25,7 @@ istio-operator:
   watchedNamespaces: istio-system
   enableCRDTemplates: false
   hub: gcr.io/istio-release
-  tag: 1.10.3
+  tag: 1.13.3
 
 monitoring:
   enabled: true
