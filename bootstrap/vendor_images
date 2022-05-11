@@ -2,11 +2,11 @@ amazon/aws-efs-csi-driver:v1.3.8
 appscode/kubed:v0.13.0-beta.0
 bitnami/kubectl:1.23.6
 bitnami/metrics-server:0.6.1-debian-10-r0
-calico/ctl:v3.22.2
-calico/kube-controllers:v3.22.2
-calico/node:v3.22.2
-calico/pod2daemon-flexvol:v3.22.2
-calico/typha:v3.22.2
+calico/ctl:v3.23.0
+calico/kube-controllers:v3.23.0
+calico/node:v3.23.0
+calico/pod2daemon-flexvol:v3.23.0
+calico/typha:v3.23.0
 equinix/cloud-provider-equinix-metal:v3.4.1
 k8s.gcr.io/provider-aws/aws-ebs-csi-driver:v1.5.1
 k8s.gcr.io/sig-storage/csi-attacher:v3.4.0
@@ -18,4 +18,4 @@ k8s.gcr.io/sig-storage/livenessprobe:v2.6.0
 k8s.gcr.io/sig-storage/snapshot-controller:v4.2.1
 k8s.gcr.io/sig-storage/snapshot-validation-webhook:v4.2.1
 prom/statsd-exporter:v0.22.4
-quay.io/tigera/operator:v1.26.1
+quay.io/tigera/operator:v1.27.0
