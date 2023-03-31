@@ -345,7 +345,7 @@ argo-cd:
 
     image:
       repository: redis
-      tag: 6.2.4-alpine
+      tag: 7.0.10-alpine
       imagePullPolicy: IfNotPresent
 
     ## Additional command line arguments to pass to redis-server
