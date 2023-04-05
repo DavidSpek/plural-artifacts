@@ -212,7 +212,7 @@ jobs:
       matrix: ${{ fromJson(needs.build-matrix.outputs.app_apply_matrix) }}
     needs:
     - build-matrix
-    - trivy-scan
+    # - trivy-scan
     permissions:
       contents: 'read'
       id-token: 'write'
