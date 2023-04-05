@@ -10,3 +10,4 @@ tags:
 - tag: postgres
 - tag: cassandra
 - tag: test
+- tag: test2

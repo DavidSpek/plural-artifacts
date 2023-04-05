@@ -11,3 +11,4 @@ oauthSettings:
   authMethod: POST
 tags:
 - tag: data-science
+- tag: test
