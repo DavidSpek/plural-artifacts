@@ -9,3 +9,4 @@ homepage: https://www.yugabyte.com/
 tags:
 - tag: postgres
 - tag: cassandra
+- tag: test
